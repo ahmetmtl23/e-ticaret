@@ -1,6 +1,6 @@
-# Sweatshirt ve T-Shirt E-Ticaret Sitesi
+# Spor Giyim E-Ticaret Sitesi
 
-Bu proje, sweatshirt ve t-shirt satıcılarını bir araya getiren bir **e-ticaret platformu** geliştirmeyi hedefler. Satıcıların ürünlerini sergileyebileceği ve müşterilerin kolayca alışveriş yapabileceği kullanıcı dostu bir platform sunar.
+Bu proje, sweatshirt ve t-shirt tarzı giysi satıcılarını bir araya getiren bir **e-ticaret platformu** geliştirmeyi hedefler. Satıcıların ürünlerini sergileyebileceği ve müşterilerin kolayca alışveriş yapabileceği kullanıcı dostu bir platform sunar.
 
 ---
 
