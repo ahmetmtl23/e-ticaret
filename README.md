@@ -30,7 +30,7 @@ Bu proje, özellikle tekstil ve moda sektöründe faaliyet gösteren bireysel gi
 
 ---
 
-## Teknoloji Yığını
+## Kullanılacaklar
 - **Frontend:**
   - **Bootstrap** kullanılarak oluşturulan responsive UI.
   - **CodeIgniter** ile dinamik içerik yönetimi.
