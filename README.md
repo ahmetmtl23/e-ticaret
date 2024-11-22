@@ -37,3 +37,9 @@ Bu proje, özellikle tekstil ve moda sektöründe faaliyet gösteren bireysel gi
 - **Backend:**
   - **Node.js** altyapısı.
   - **MongoDB Atlas** üzerinde barındırılan veritabanı.
+
+---
+
+## Projede Yer Alacak Kişiler
+- Ahmet Mutlu
+- Ramazan Budak
