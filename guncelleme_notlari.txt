@@ -1,0 +1,10 @@
+26.12.2024 Güncellemeleri:
+- Ürün silme fonksiyonu backend tarafına eklendi.
+- Image güncellemeleri backend'de optimize edildi.
+- Update fonksiyonu backend tarafında geliştirildi.
+
+26.12.2024 Güncellemeleri:
+- API performansı artırıldı ve yanıt süreleri kısaltıldı.
+- Yeni ürün ekleme işlemi backend'de basitleştirildi.
+- Hata ayıklama için loglama sistemi geliştirildi.
+- Kullanıcı geri bildirimlerine dayalı olarak bazı endpoint'ler güncellendi.
