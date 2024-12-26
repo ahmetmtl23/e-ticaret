@@ -6,5 +6,5 @@
 26.12.2024 Güncellemeleri:
 - API performansı artırıldı ve yanıt süreleri kısaltıldı.
 - Yeni ürün ekleme işlemi backend'de basitleştirildi.
-- Hata ayıklama için loglama sistemi geliştirildi.
-- Kullanıcı geri bildirimlerine dayalı olarak bazı endpoint'ler güncellendi.
+- Ürün listeleme fonksiyonu backend tarafında geliştirildi.
+- Arayüz sade ve basitleştirildi.
