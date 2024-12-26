@@ -1,0 +1,85 @@
+/* Genel stil ayarları */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Form stil ayarları */
+form {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+input, textarea {
+    display: block;
+    margin: 10px 0;
+    padding: 10px;
+    width: calc(100% - 22px);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+/* Ürün listesi stil ayarları */
+#urunlerListesi {
+    display: block; /* Ürünleri alt alta sıralamak için */
+    margin: 20px;
+}
+
+#urunlerListesi div {
+    display: block; /* Her bir ürün divinin alt alta görünmesi için */
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid #eee;
+    background-color: #fff;
+    width: 100%; /* Genişliği tam yaparak ortalamayı sağla */
+    max-width: 600px; /* Maksimum genişlik ayarla */
+}
+
+#urunlerListesi div img {
+    width: 80px;
+    height: auto;
+    margin-right: 15px;
+}
+
+#urunlerListesi div .urun-bilgi {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 15px; /* Resim ile bilgi arasındaki boşluk */
+}
+
+#urunlerListesi div .urun-bilgi h3 {
+    margin: 0;
+}
+
+#urunlerListesi div .urun-bilgi p {
+    margin: 0;
+}
